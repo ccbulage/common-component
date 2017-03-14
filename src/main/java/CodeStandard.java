@@ -16,7 +16,7 @@ public class CodeStandard {
         String A = "A";
         String B = "B";
 
-        codeStyle(A, B);
+        new CodeStandard().codeStyle(A, B);
 
         
     }
